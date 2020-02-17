@@ -1,0 +1,11 @@
+{
+  "car": [
+    {
+      "name": hundai,
+      "model": "i20"
+    }
+  ],
+  "country": {
+    "name": "india"
+  }
+}
